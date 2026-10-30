@@ -1,23 +1,10 @@
 {
- "key": "5dc745c8",
+ "key": "de644898",
  "stars": 0,
- "contributions": 6,
- "repos": 2,
+ "contributions": 4,
+ "repos": 1,
  "followers": 0,
- "languages": [
-  [
-   "JavaScript",
-   2844
-  ],
-  [
-   "HTML",
-   257
-  ],
-  [
-   "CSS",
-   170
-  ]
- ],
+ "languages": [],
  "days": [
   [
    {
@@ -83,7 +70,7 @@
     "today": false
    },
    {
-    "c": 2,
+    "c": 0,
     "day": 23,
     "today": false
    },
@@ -133,15 +120,6 @@
  },
  "pins": [],
  "all": [
-  {
-   "name": "anemia-music",
-   "url": "https://github.com/dioruralov/anemia-music",
-   "text": "",
-   "fork": false,
-   "stars": 0,
-   "language": "JavaScript",
-   "topics": []
-  },
   {
    "name": "dioruralov",
    "url": "https://github.com/dioruralov/dioruralov",
