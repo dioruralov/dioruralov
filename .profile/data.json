@@ -1,23 +1,10 @@
 {
- "key": "c09a48e8",
+ "key": "c65ce6b6",
  "stars": 0,
- "contributions": 6,
- "repos": 2,
+ "contributions": 4,
+ "repos": 1,
  "followers": 0,
- "languages": [
-  [
-   "JavaScript",
-   16241
-  ],
-  [
-   "CSS",
-   10632
-  ],
-  [
-   "HTML",
-   2797
-  ]
- ],
+ "languages": [],
  "days": [
   [
    {
@@ -110,7 +97,7 @@
     "today": false
    },
    {
-    "c": 2,
+    "c": 0,
     "day": 11,
     "today": true
    },
@@ -120,20 +107,11 @@
   ]
  ],
  "streak": {
-  "current": 1,
+  "current": 0,
   "longest": 1
  },
  "pins": [],
  "all": [
-  {
-   "name": "offrsapp",
-   "url": "https://github.com/dioruralov/offrsapp",
-   "text": "",
-   "fork": false,
-   "stars": 0,
-   "language": "JavaScript",
-   "topics": []
-  },
   {
    "name": "dioruralov",
    "url": "https://github.com/dioruralov/dioruralov",
